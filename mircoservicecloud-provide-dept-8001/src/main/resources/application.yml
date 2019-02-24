@@ -31,6 +31,6 @@ eureka:
 
 info:
   app.name: microservicecloud-provider-dept-8001
-  company.name: www.huya.com
+  company.name: www.davie.com
   build.artifactId: $project.artifactId$
   build.version: $project.version$
