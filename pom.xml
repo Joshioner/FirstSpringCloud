@@ -10,12 +10,13 @@
     <modules>
         <module>microservicecloud-api</module>
         <module>mircoservicecloud-provide-dept-8001</module>
+        <module>mircoservicecloud-provide-dept-8002</module>
+        <module>mircoservicecloud-provide-dept-8003</module>
         <module>microservicecloud-consumer-dept-8000</module>
+        <module>microservicecloud-consumer-dept-7999-feign</module>
         <module>microservicecloud-server-7001</module>
         <module>microservicecloud-server-7002</module>
         <module>microservicecloud-server-7003</module>
-        <module>mircoservicecloud-provide-dept-8002</module>
-        <module>mircoservicecloud-provide-dept-8003</module>
     </modules>
     <!--作为一个共同的pom文件-->
     <packaging>pom</packaging>

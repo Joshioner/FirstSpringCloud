@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/microservice-server/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-7999/pom.xml" />
       </set>
     </option>
   </component>
