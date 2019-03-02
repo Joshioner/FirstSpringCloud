@@ -1,0 +1,11 @@
+server:
+  port: 3344
+
+spring:
+  application:
+    name: microservicecloud-config-server-3344
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/Joshioner/microservicecloud-config-server.git   #github上的原始地址

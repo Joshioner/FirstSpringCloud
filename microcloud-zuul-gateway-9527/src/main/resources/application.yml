@@ -28,3 +28,7 @@ zuul:
   ignored-services: microservicecloud-provider-dept
   # ignored-services: "*"    禁止所有
   prefix: /davie   # 访问前缀
+
+
+
+

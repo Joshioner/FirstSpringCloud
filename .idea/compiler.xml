@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="microcloudzuulgateway9527" />
         <module name="microservicecloudapi" />
+        <module name="microservicecloudconfigserver3344" />
         <module name="microservicecloudconsumerdept7999feign" />
         <module name="microservicecloudconsumerdept8000" />
         <module name="microservicecloudconsumerhystrixdashboard9001" />
