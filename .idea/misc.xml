@@ -11,6 +11,7 @@
       <set>
         <option value="$PROJECT_DIR$/microservice-server/pom.xml" />
         <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-7999/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-server-7004-hystrix/pom.xml" />
       </set>
     </option>
   </component>
