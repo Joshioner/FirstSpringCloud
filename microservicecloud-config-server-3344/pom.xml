@@ -28,10 +28,10 @@
             <artifactId>spring-boot-starter-actuator</artifactId>
         </dependency>
         <!-- Eureka server -->
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.springframework.cloud</groupId>-->
+            <!--<artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>-->
+        <!--</dependency>-->
 
         <!--热部署-->
         <dependency>

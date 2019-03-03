@@ -9,10 +9,14 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>microservicecloud-server-7001</artifactId>
-    <name>microservicecloud-server</name>
-    <description>eureka服务注册中心</description>
+    <artifactId>icroservicecloud-config-client-eureka-server-7001</artifactId>
+    <description>eureka服务注册中心--config client客服端配置</description>
     <dependencies>
+        <!-- config client项 -->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-config-client</artifactId>
+        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>

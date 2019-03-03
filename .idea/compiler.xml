@@ -9,6 +9,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="microcloudzuulgateway9527" />
         <module name="microservicecloudapi" />
+        <module name="microservicecloudconfigclienteurekaserver7001" />
+        <module name="microservicecloudconfigclientproviderdept8005" />
         <module name="microservicecloudconfigserver3344" />
         <module name="microservicecloudconsumerdept7999feign" />
         <module name="microservicecloudconsumerdept8000" />
