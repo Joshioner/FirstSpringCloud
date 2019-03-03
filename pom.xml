@@ -21,6 +21,7 @@
         <module>microservicecloud-consumer-hystrix-dashboard-9001</module>
         <module>microcloud-zuul-gateway-9527</module>
         <module>microservicecloud-config-server-3344</module>
+        <module>modulemicroservicecloud-config-client-3355</module>
     </modules>
     <!--作为一个共同的pom文件-->
     <packaging>pom</packaging>

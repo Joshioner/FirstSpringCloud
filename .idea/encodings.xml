@@ -15,5 +15,7 @@
     <file url="file://$PROJECT_DIR$/mircoservicecloud-provide-dept-8002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mircoservicecloud-provide-dept-8003" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mircoservicecloud-provide-dept-8004-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modulemicroservicecloud-config-client-3355" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modulemicroservicecloud-config-client-3355/src/main/resources/bootstrap.yml" charset="UTF-8" />
   </component>
 </project>

@@ -20,6 +20,7 @@
         <module name="mircoservicecloudprovidedept8002" />
         <module name="mircoservicecloudprovidedept8003" />
         <module name="mircoservicecloudprovidedept8004hystrix" />
+        <module name="modulemicroservicecloudconfigclient3355" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
