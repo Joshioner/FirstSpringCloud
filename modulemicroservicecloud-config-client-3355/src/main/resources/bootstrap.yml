@@ -1,8 +1,7 @@
-# \u8FD9\u4E2A\u914D\u7F6E\u6587\u4EF6\u662F\u5C5E\u4E8E\u7CFB\u7EDF\u914D\u7F6E\uFF0C\u4F18\u5148\u7EA7\u6BD4application.yml\u9AD8
 spring:
   cloud:
     config:
-      name: microservicecloud-config-client  # \u9700\u8981\u4ECEgithub\u4E0A\u8BFB\u53D6\u8D44\u6E90\u540D\u79F0 \u6CE8\u610F\u6CA1\u6709yml
-      profile: test  # \u672C\u6B21\u8BBF\u95EE\u7684\u914D\u7F6E\u9879
+      name: microservicecloud-config-client  # ???github??????? ????yml
+      profile: test  # ????????
       label: master
-      uri: http://config-server-3344.com:3344 # \u672C\u8D44\u6E90\u5FAE\u670D\u52A1\u542F\u52A8\u540E\u5148\u53BB\u627E3344\u53F7\u670D\u52A1\uFF0C\u901A\u8FC7SpringCloudConfig\u83B7\u53D6Github\u7684\u670D\u52A1\u5730\u5740
+      uri: http://config-server-3344.com:3344 # ????????????3344??????SpringCloudConfig??Github?????
